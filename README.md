@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I´m Nancy Pérez Reyes 👋
+### I´m currently learning Low-code development 🌱  
+### I would like to share my work and collaborate in a diversity team👯
+
+📫 You reach me on nperezrys@gmail.com
 
 <!--
 **nancyez/nancyez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
